@@ -16,3 +16,7 @@
 * Set lable in github
 * Merge pull request with rebase and Merge
 * Generate new version
+
+## Case 3
+
+* test authomatic set label in pull request
